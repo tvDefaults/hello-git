@@ -1,2 +1,5 @@
 # hello-git
-epository for learning how to use git
+repository for learning how to use git
+# Credits
+repository created for labs in PUT.
+
